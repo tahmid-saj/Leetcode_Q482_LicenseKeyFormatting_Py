@@ -1,0 +1,1 @@
+# Leetcode_Q482_LicenseKeyFormatting_Py
